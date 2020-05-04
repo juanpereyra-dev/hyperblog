@@ -1,4 +1,4 @@
-#  :tw-1f497: ** Hyperblog** :tw-1f497:
+#** Hyperblog**
 
 ###  **Un blog increíble para el curso de Git y Github de Platzi**
 
